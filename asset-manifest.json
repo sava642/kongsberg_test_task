@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kongsberg_test_task/static/css/main.3d25da4d.css",
+    "main.js": "/kongsberg_test_task/static/js/main.d397c3f5.js",
+    "static/js/787.e8769ff5.chunk.js": "/kongsberg_test_task/static/js/787.e8769ff5.chunk.js",
+    "index.html": "/kongsberg_test_task/index.html",
+    "main.3d25da4d.css.map": "/kongsberg_test_task/static/css/main.3d25da4d.css.map",
+    "main.d397c3f5.js.map": "/kongsberg_test_task/static/js/main.d397c3f5.js.map",
+    "787.e8769ff5.chunk.js.map": "/kongsberg_test_task/static/js/787.e8769ff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d25da4d.css",
+    "static/js/main.d397c3f5.js"
+  ]
+}
